@@ -1,0 +1,2 @@
+# PythonInheritance
+継承
